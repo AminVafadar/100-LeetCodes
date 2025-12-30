@@ -7,13 +7,13 @@ The goal is to stay consistent, improve problem-solving skills, and strengthen d
 ---
 
 ## 📂 Repository Structure
-Day-01/
+Problem-01/
 
 ├── problem.md # Problem statement & notes
 
 ├── solution.py # Solution in Python
 
-Day-02/
+Problem-02/
 
 ├── ...
 
@@ -21,11 +21,11 @@ Day-02/
 
 ## 🏆 Progress Tracker
 
-| Day | Problem | Difficulty | Solution |
-|-----|----------|-------------|-----------|
-| 01  | Palindrome Number | Easy | [solution](Day-01/solution.py) |
-| 02  | Two Sum | Easy | [solution](Day-02/solution.py) |
-| ... | ... | ... | ... |
+| Problem | Difficulty | Solution |
+|----------|-------------|-----------|
+| Palindrome Number | Easy | [solution](Day-01/solution.py) |
+| Two Sum | Easy | [solution](Day-02/solution.py) |
+| ... | ... | ... |
 
 ---
 
