@@ -1,4 +1,4 @@
-# Day 01 – Palindrome Number
+# Problem 01 – Palindrome Number
 
 ## 📌 Problem Summary
 Determine whether an integer is a palindrome.  
