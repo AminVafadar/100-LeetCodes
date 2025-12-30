@@ -1,15 +1,8 @@
-# 100-Days-of-LeetCode 🚀
-📚 A 100-day journey of problem solving with LeetCode.
+# 100 LeetCodes 🚀
+📚 A journey of problem solving with LeetCode.
 
-This repository documents my journey of solving LeetCode problems every day for 100 days.  
+This repository documents my journey of solving 100 LeetCode problems.  
 The goal is to stay consistent, improve problem-solving skills, and strengthen data structures & algorithms knowledge.
-
----
-
-## 📅 Challenge Rules
-- Solve at least **1 LeetCode problem per day**.
-- Document the solution with code and explanation.
-- Stay consistent for 100 days.
 
 ---
 
